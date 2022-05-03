@@ -1,0 +1,33 @@
+{   "name": "music nft engine",
+    "symbol": "mne",
+    "image": "0.png",
+    "description":
+      "A description about my custom NFT #1",
+    "seller_fee_basis_points": 500,
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "NFT type",
+            "value": "Custom"
+        }
+    ],
+    "collection": {
+      "name": "Test music engine collection",
+      "family": "Custom NFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        },
+        {"uri": "https://rphvlsfdqjrynicpdrnbwvkettzuacuynudz26kctolc4kgc5zmq.arweave.net/i89VyKOCY4agTxxaG1VEnPNACphtB515QpuWLijC7lk", "type": "audio/wav"}
+      ],
+      "creators": [
+        {
+          "address": "6415j5kmtjFRhmA4i8ixDEGJJCPPmRf5ejj9SEe1zWaN",
+          "share": 100
+        }
+      ]
+    }
+}

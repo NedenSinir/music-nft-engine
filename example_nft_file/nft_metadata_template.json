@@ -1,0 +1,14 @@
+
+{
+    "name": "music nft engine",
+    "symbol": "mne",
+    "uri":"Don't put something to there just change other parts",
+    "seller_fee_basis_points": 500,
+    "creators": [
+        {"address": "6415j5kmtjFRhmA4i8ixDEGJJCPPmRf5ejj9SEe1zWaN",
+         "verified": false,
+         "share": 100
+         }]
+
+  
+}
